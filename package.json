@@ -1,0 +1,23 @@
+{
+  "name": "fdoc_5-shubhrabiswal",
+  "version": "1.0.0",
+  "description": "1. Use the countries API to fetch data about countries. (5 pt)",
+  "main": "country.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentsoftware/fdoc_5-shubhrabiswal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/exponentsoftware/fdoc_5-shubhrabiswal/issues"
+  },
+  "homepage": "https://github.com/exponentsoftware/fdoc_5-shubhrabiswal#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
